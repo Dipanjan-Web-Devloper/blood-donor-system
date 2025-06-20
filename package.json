@@ -1,6 +1,7 @@
 {
   "name": "blood-donor-system",
   "private": true,
+  "homepage": "https://Dipanjan-Web-Devloper.github.io/blood-donor-system/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
