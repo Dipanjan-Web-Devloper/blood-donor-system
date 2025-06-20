@@ -2,9 +2,7 @@
 
 A comprehensive ReactJS-based blood donor management system that connects voluntary blood donors with people in need across India. This platform serves as a bridge between blood donors and recipients, making the process of finding blood donors quick and efficient.
 
-🔴 Live Preview
-
-🌐 [View Live Website]([http://dipanjandas.site/](https://jnkhpwrg.manus.space/))
+🔴* [Live Preview](https://jnkhpwrg.manus.space/)
 
 Click the button above to see the live working version of this project
 
